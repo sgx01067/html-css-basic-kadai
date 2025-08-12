@@ -1,5 +1,5 @@
 body {
-		font-family: "Arial", "Meiryo", sans-serif;
+		font-family: "Josefin Sans", sans-serif;
 		font-size: 20px;
 		text-align: center;
 }
@@ -9,8 +9,13 @@ body {
 .decoration02 {
 	color: rgb(255, 192, 203);
 }
-h1 {
-	font-size: 48px
+h1 {	
+.josefin-sans-<uniquifier> {
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;
+}
+	font-size: 48px;
 	letter-spacing: 1.2em;
 	text-shadow: 1px 1px 2px green;
 	border-bottom: solid 3px rgb(115, 115, 114);
@@ -18,4 +23,3 @@ h1 {
 #basic > p {
 	font-weight: bold;
 }
-
