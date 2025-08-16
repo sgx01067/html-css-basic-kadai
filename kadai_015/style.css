@@ -8,8 +8,8 @@ body {
 .decoration02 {
 	color: rgb(255, 192, 203);
 }
-h1 {	
-	font-size: 2rem;
+h1 {
+	font-size: 0.5rem;
 	font-family: "josefin-sans", sans-serif;
 	letter-spacing: 1.2em;
 	text-shadow: 1px 1px 2px green;
