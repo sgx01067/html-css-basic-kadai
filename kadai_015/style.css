@@ -9,13 +9,8 @@ body {
 	color: rgb(255, 192, 203);
 }
 h1 {	
-/* .josefin-sans-<uniquifier> { */
-	/* font-optical-sizing: auto; */
-	/* font-weight: <weight>; */
-	/* font-style: normal; */
-/* } */
-	/* font-size: 2em; */
-	font-family: "Josefin-sans", sans-serif;
+	font-size: 2rem;
+	font-family: "josefin-sans", sans-serif;
 	letter-spacing: 1.2em;
 	text-shadow: 1px 1px 2px green;
 	border-bottom: solid 3px rgb(115, 115, 114);
